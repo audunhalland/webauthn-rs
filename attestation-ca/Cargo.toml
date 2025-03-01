@@ -19,6 +19,3 @@ serde.workspace = true
 tracing.workspace = true
 openssl.workspace = true
 uuid = { workspace = true, features = ["serde"] }
-
-[build-dependencies]
-openssl.workspace = true

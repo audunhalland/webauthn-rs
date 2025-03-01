@@ -44,6 +44,3 @@ uuid = { workspace = true, features = ["serde"] }
 hex-literal = "0.4"
 tracing-subscriber.workspace = true
 webauthn-rs-device-catalog.workspace = true
-
-[build-dependencies]
-openssl.workspace = true
